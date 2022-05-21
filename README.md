@@ -59,6 +59,8 @@ chris.borer@gmail.com
     [/Users/cspower/Documents/Bootcamp/my-taker-of-notes/Screen Shot 2022-05-21 at 10.41.47 AM.png]
     Heroku link
     https://my-taker-of-notes.herokuapp.com/notes
+    git hub
+    https://cspower5.github.io/my-taker-of-notes/
 
 
 
